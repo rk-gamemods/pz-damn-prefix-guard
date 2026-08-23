@@ -1,0 +1,11 @@
+name=DAMN Prefix Guard
+id=DAMNPrefixGuard
+author=RKGameMods
+description=Fail-closed compatibility guard for DAMN Library files rejected by Project Zomboid 42.20.3's stale prefix cache.
+versionMin=42.20.3
+versionMax=42.20.3
+require=\ZombieBuddy,damnlib
+javaJarFile=media/java/client/DAMNPrefixGuard.jar
+javaPkgName=pzmods.damn_prefix_guard
+ZBVersionMin=2.3.2
+ZBVersionMax=2.3.2

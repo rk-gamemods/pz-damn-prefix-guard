@@ -1,0 +1,10 @@
+{
+  "zombieBuddy": {
+    "version": "2.3.2",
+    "sha256": "6dd95cedce60f03bf8b8cefd0d19eb156230e0d54bffa07de9da5212a06c7be6"
+  },
+  "projectZomboid": {
+    "version": "42.20.3",
+    "sha256": "bda809fb49004a07dbfc560d059c0ee58d0643ab0f33b53351b13bd62f1d8227"
+  }
+}
