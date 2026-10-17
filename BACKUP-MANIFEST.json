@@ -1,0 +1,33 @@
+{
+  "format": "project-recovery-parts-v1",
+  "sourcePlan": {
+    "slug": "pz-damnprefixguard",
+    "repo": "rk-gamemods/pz-damn-prefix-guard",
+    "allowCreate": false,
+    "sources": [
+      {
+        "root": "C:\\Users\\Admin\\Documents\\GIT\\GameMods\\PZMods\\DAMNPrefixGuard"
+      }
+    ]
+  },
+  "parts": [
+    {
+      "name": "recovery.tar.gz.part0001",
+      "bytes": 35377,
+      "sha256": "fe0532029ed74430e81fb2f41df67b0b4b1fdb68979bd74c18da986177424a7d"
+    }
+  ],
+  "archiveSha256": "fe0532029ed74430e81fb2f41df67b0b4b1fdb68979bd74c18da986177424a7d",
+  "archiveBytes": 35377,
+  "selectedFiles": 26,
+  "selectedLogicalBytes": 69741,
+  "gitRepositories": 1,
+  "excluded": [
+    {
+      "source": 0,
+      "path": ".git",
+      "reason": "rebuildable/test-generated"
+    }
+  ],
+  "retained": []
+}
